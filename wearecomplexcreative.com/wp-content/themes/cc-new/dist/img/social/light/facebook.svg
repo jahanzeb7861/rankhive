@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 43.131 43.131">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df007f"/>
+      <stop offset="1" stop-color="#8f2ba8"/>
+    </linearGradient>
+  </defs>
+  <g id="facebook_for_lml" data-name="facebook for lml" transform="translate(0)">
+    <path id="Path_86" data-name="Path 86" d="M25.447,3.971A21.566,21.566,0,1,0,47.012,25.537,21.59,21.59,0,0,0,25.447,3.971Zm0,42.193A20.627,20.627,0,1,1,46.074,25.537,20.651,20.651,0,0,1,25.447,46.164Z" transform="translate(-3.881 -3.971)" fill="currentColor"/>
+    <path id="Path_87" data-name="Path 87" d="M46.807,22.212H43.128c-3,0-5.538,2.853-5.538,6.23V29.8H34.669a.417.417,0,0,0-.417.417v4.552a.417.417,0,0,0,.417.417H37.59v9.857a.417.417,0,0,0,.417.417h4.248a.417.417,0,0,0,.417-.417V35.185h4.134a.417.417,0,0,0,.417-.417V30.215a.417.417,0,0,0-.417-.417H42.673V28.4c0-.531.319-.8.455-.8h3.679a.417.417,0,0,0,.417-.417V22.629A.417.417,0,0,0,46.807,22.212Zm-.417,4.552H43.128A1.51,1.51,0,0,0,41.839,28.4v1.813a.417.417,0,0,0,.417.417H46.39V34.35H42.256a.417.417,0,0,0-.417.417v9.857H38.425V34.767a.417.417,0,0,0-.417-.417H35.086V30.633h2.921a.417.417,0,0,0,.417-.417V28.442c0-2.924,2.154-5.4,4.7-5.4H46.39Z" transform="translate(-19.068 -12.249)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
