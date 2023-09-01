@@ -4531,8 +4531,8 @@ html:not(.dark) .testimonial-author img {
     }
 
     .lg\:py-10 {
-        padding-bottom: 2.5rem;
-        padding-top: 2.5rem
+        /* padding-bottom: 2.5rem;
+        padding-top: 2.5rem */
     }
 
     .lg\:pt-0 {
